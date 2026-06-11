@@ -51,7 +51,7 @@ Three standalone charts for initial data exploration:
 
 ## 🚀 Quick Start
 
-![Setup](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanducXVrMzBtMTZxdzNqb3NneTd3bHgxcnBkcWttdjc3dWp0ZXN1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif)
+![Setup](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 ### ⚡ Using Vite (Recommended)
 
@@ -126,7 +126,7 @@ The dashboard uses Apple's publicly reported revenue data:
 
 ## 🔍 Key Analytical Findings
 
-![Analysis](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJ1eTZsaXFvdWZqeGd5NHo2MGNoZGd3dmZvazdndjQ4Ymx4NnptcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif)
+![Analysis](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 | # | 💡 Finding | 📈 Signal |
 |---|-----------|---------|
